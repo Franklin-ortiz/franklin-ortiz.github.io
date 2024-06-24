@@ -1,6 +1,6 @@
 
 //Editar
-let objetivo = 10;
+let objetivo = 20;
 let TextoPuntaje = "Amor Obtenido: ";
 let TextoVictoria = "¡Finoooo!";
 let TextoDerrota = "pipipi";
